@@ -4,6 +4,5 @@ testing public repo
 
 link 
 
-[Architecture](https://github.com/braitz/testing/blob/master/docs/architecture.md)
-[(relative) Architecture](docs/architecture.md)
+*  [Architecture] (docs/architecture.md)
 
