@@ -4,5 +4,4 @@ testing public repo
 
 link 
 
-*  [Architecture] (docs/architecture.md)
-
+*  [Architecture](docs/architecture.md)
